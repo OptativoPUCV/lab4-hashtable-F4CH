@@ -2,3 +2,9 @@ Tue 23 Apr 2024 09:57:50 PM UTC:
  tests:  0|6
 total_score: 0/70
 7f50e13
+Tue 23 Apr 2024 10:01:50 PM UTC: 
+ hashmap.c | 10 +++++++++-
+ 1 file changed, 9 insertions(+), 1 deletion(-)
+ tests:  4|5
+total_score: 20/70
+ecbad35
